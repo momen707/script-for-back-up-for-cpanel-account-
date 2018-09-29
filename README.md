@@ -19,6 +19,8 @@ example :
 
 # backup_update.sh example.com example@example.com /home/cpmove-$i.tar.gz /home/username_example/public_html/example/ username_example 127.0.0.1 example_server username 
 
+# note : you should use ssh keys in case you want to move this backup to another storage 
+
 The second case
 
 if you don't want to move this backup to another server 
